@@ -31,6 +31,7 @@
 - April Hudson
 - Karl Osinski
 - Candice Schowalter
+  
 **user**
 - Gloria Hane
 - Mrs. Cody Muller
@@ -40,9 +41,11 @@
 - Woodrow Macejkovic
 - Tracey Jacobs
 - Candice Schowalter
+
 **clerk**
 - Mrs. Cody Muller
 - Sophia Gibson
 - April Hudson
 - Lori Watsica
 - Karl Osinski
+
