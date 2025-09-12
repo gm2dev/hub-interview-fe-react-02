@@ -10,7 +10,7 @@
 ### Interview Exercise Requirements
 
 1. **Fetch users from the provided endpoint, and display them in a list**
-    - Endpoint: [https://64fb193acb9c00518f7aa434.mockapi.io/api/v1/apiForTechnicalInterviews](https://64fb193acb9c00518f7aa434.mockapi.io/api/v1/users)
+    - Endpoint: [https://64fb193acb9c00518f7aa434.mockapi.io/api/v1/users](https://64fb193acb9c00518f7aa434.mockapi.io/api/v1/users)
     - Each user row must show: 
         - User Avatar
         - User Name
@@ -48,5 +48,6 @@
 - April Hudson
 - Lori Watsica
 - Karl Osinski
+
 
 
